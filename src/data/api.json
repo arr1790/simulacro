@@ -1,0 +1,47 @@
+{
+  "alumnos": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "domicilio": "Montilla",
+      "fecha_nacimiento": "2000-05-15",
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "2",
+      "nombre": "María López",
+      "domicilio": "Cordoba",
+      "fecha_nacimiento": 20.12,
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos Gómez",
+      "domicilio": "lucena",
+      "fecha_nacimiento": "2001-11-10",
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    }
+   
+  ],
+  "profesores": [
+    {
+      "id": "1",
+      "nombre": "Ana García",
+      "especialidad": "Matematicas",
+      "estado_civil": "CASADO"
+    },
+    {
+      "id": "2",
+      "nombre": "Juan Lopez",
+      "especialida": "Ingles",
+      "estado_civil": "SOLTERO"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos",
+      "especialida": "calle,13",
+      "estado_civil": "VIUDO"
+    }
+   
+  ]
+}
